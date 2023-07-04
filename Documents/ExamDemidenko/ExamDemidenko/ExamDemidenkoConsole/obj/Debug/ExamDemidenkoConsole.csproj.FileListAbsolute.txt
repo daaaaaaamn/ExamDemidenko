@@ -1,0 +1,11 @@
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\bin\Debug\ExamDemidenkoConsole.exe.config
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\bin\Debug\ExamDemidenkoConsole.exe
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\bin\Debug\ExamDemidenkoConsole.pdb
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\bin\Debug\ExamDemidenko.dll
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\bin\Debug\ExamDemidenko.pdb
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\obj\Debug\ExamDemidenkoConsole.csproj.AssemblyReference.cache
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\obj\Debug\ExamDemidenkoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\obj\Debug\ExamDemidenkoConsole.csproj.CoreCompileInputs.cache
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\obj\Debug\ExamDemidenkoConsole.csproj.CopyComplete
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\obj\Debug\ExamDemidenkoConsole.exe
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenkoConsole\obj\Debug\ExamDemidenkoConsole.pdb

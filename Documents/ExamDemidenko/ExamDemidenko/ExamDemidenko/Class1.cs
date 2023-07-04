@@ -11,7 +11,7 @@ namespace ExamDemidenko
     {
         public string Name { get; set; }
         public string College { get; set; }
-        public List<Student> Library = new List<Student>();
+        public List<Student> Students = new List<Student>();
         public Group(string name, string college)
         {
             Name = name;
@@ -20,12 +20,13 @@ namespace ExamDemidenko
         }
         public void Show()
         {
-            Console.WriteLine($"Студенческая группа: Название группы = {Name}, Название колледжа = {College}");
+            Console.WriteLine($"Студенческая группа: Название группы = {Name}," +
+                $" Название колледжа = {College}");
         }
         public List<Student> newList(Group user)
         {
             List<Student> col = new List<Student>();
-            foreach (Student b in user.Library)
+            foreach (Student b in user.Students)
             {
                 Student book1 = new Student(b.Name, b.Ocenka);
                 col.Add(book1);
@@ -35,7 +36,7 @@ namespace ExamDemidenko
         public void ShowAll(Group ps)
         {
             ps.Show();
-            foreach (Student b in ps.Library)
+            foreach (Student b in ps.Students)
             {
                 b.Show();
             }
