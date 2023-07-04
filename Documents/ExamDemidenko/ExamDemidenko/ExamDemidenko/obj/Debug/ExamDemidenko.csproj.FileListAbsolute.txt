@@ -1,0 +1,6 @@
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenko\bin\Debug\ExamDemidenko.dll
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenko\bin\Debug\ExamDemidenko.pdb
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenko\obj\Debug\ExamDemidenko.csproj.AssemblyReference.cache
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenko\obj\Debug\ExamDemidenko.csproj.CoreCompileInputs.cache
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenko\obj\Debug\ExamDemidenko.dll
+C:\Users\306\Documents\ExamDemidenko\ExamDemidenko\ExamDemidenko\obj\Debug\ExamDemidenko.pdb
